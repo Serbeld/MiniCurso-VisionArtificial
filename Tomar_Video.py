@@ -2,7 +2,7 @@
 
 # Tomar_Video.py
 
-# Este código va orientado a la toma de imagenes de video mediante 
+# Este código va orientado a la toma de imágenes de video mediante 
 # la librería open cv en Python...
 
 # Programador Sergio Luis Beleño Díaz
