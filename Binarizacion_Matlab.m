@@ -1,4 +1,4 @@
-clc; clear;		               % Limpialas variables almacenadas y el command windows
+clc; clear all;		           % Limpialas variables almacenadas y el command windows
 I = imread(‘camino.jpg');    % Carga la imagen
 ibn=im2bw(I,0.44);           % Binarización
 figure (1)
