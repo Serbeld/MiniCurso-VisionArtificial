@@ -8,4 +8,4 @@ imshow(ibn)                  % Muestra la imagen binarizada
 imtool(ibn)                  % Muestra las características de la imagen binarizada
 
 % NOTA: Las imágenes deben estar en la misma carpeta que el programa que se ejecuta,
-% además el número 0.46 es el porcentaje de binarización(se recomienda variarlo para observar que sucede).
+% además el número 0.44 es el porcentaje de binarización(se recomienda variarlo para observar que sucede).
