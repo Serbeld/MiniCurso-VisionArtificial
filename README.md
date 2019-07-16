@@ -10,4 +10,4 @@ python -m pip install --upgrade pip
 
 pip install opencv-python
 
-// Autor: Sergio Luis Beleño Díaz
+ ## Autor: Sergio Luis Beleño Díaz ✒️
