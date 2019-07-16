@@ -9,3 +9,5 @@ python -m pip install -U pip
 python -m pip install --upgrade pip
 
 pip install opencv-python
+
+// Autor: Sergio Luis Beleño Díaz
