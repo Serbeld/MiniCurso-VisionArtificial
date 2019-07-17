@@ -10,4 +10,4 @@ python -m pip install --upgrade pip
 
 pip install opencv-python
 
- ##  Sergio Luis Beleño Díaz ✒️
+ ###  Sergio Luis Beleño Díaz ✒️
