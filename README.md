@@ -10,4 +10,24 @@ python -m pip install --upgrade pip
 
 pip install opencv-python
 
+####
+# Descargar OpenCV en Ubuntu
+Copie y pegue cada una de los siguientes comandos en el terminal ingresando los comandos línea por línea solo una a la vez:
+
+### Python 2
+
+sudo apt-get install python-pip
+
+python -m pip install --upgrade pip
+
+pip install --user opencv-python
+
+### Python 3
+
+sudo apt-get install python3-pip
+
+pip3 install --user opencv-python
+
+####
+
  ####  Sergio Beleño :octocat: ✒️
