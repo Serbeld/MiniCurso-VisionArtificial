@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #c9c9d5;
+    font-family: 'Syne Mono', monospace;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width : 20px;
+}
+
+::-webkit-scrollbar-track {
+    background-color : #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius : 10px;
+    background-image : linear-gradient(45deg, rgb(0, 0, 0, 0.9), rgb(50 50 50));
+    border : rgb(255, 255, 255) solid 4px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.boxes{
+    padding: 10px;
+}
+
+#canvas, #canva_gray, #conv_image, #conv_image2, #conv_image3, #conv_image4, #conv_image5, #conv_image6{
+    width: 390px;
+}
